@@ -1,5 +1,5 @@
 {
-    "name": "mattjmattj/range-parser",
+    "name": "mattjmattj/holdem-range-parser",
     "description": "A hold'em range parser in PHP",
     "type": "library",
     "require": {

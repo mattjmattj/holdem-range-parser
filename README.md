@@ -1,4 +1,4 @@
-# mattjmattj/range-parser
+# mattjmattj/holdem-range-parser
 
 A PHP hold'em range parser
 
