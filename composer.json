@@ -1,6 +1,6 @@
 {
     "name": "mattjmattj/range-parser",
-    "description": "A poker range parser in PHP",
+    "description": "A hold'em range parser in PHP",
     "type": "library",
     "require": {
         "php": ">=8.1"
@@ -12,12 +12,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mattjmattj\\RangeParser\\": "src/"
+            "Mattjmattj\\Holdem\\RangeParser\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mattjmattj\\RangeParser\\Test\\": "tests/"
+            "Mattjmattj\\Holdem\\RangeParser\\Test\\": "tests/"
         }
     },
     "authors": [
